@@ -186,7 +186,10 @@ A REST API for real-time ML inference with sub-100ms latency. End-to-end pipelin
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/likithkg" />
+  <img
+    src="https://gh-heat.anishroy.com/api/likithkg/svg?darkMode=true&bg=0d1117&theme=green"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
