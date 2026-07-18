@@ -186,7 +186,7 @@ A REST API for real-time ML inference with sub-100ms latency. End-to-end pipelin
 ## GitHub Statistics
 
 <p align="center">
-  <img src="contribution-graph.svg" alt="Likith's GitHub Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/409ba5/likithkg" />
 </p>
 
 ---
